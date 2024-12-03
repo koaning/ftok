@@ -12,3 +12,7 @@ uv pip install -e .
 ```
 
 You should be able to run the benchmark after running all that. 
+
+```
+uv run bench.py
+```
