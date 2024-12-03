@@ -10,3 +10,5 @@ maturin new fasttok --mixed --src
 uv run maturin develop --uv
 uv pip install -e .
 ```
+
+You should be able to run the benchmark after running all that. 
